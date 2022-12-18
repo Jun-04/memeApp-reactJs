@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/memeApp-reactJs/static/css/main.c52a2260.css",
+    "main.js": "/memeApp-reactJs/static/js/main.30eb39bc.js",
+    "index.html": "/memeApp-reactJs/index.html",
+    "main.c52a2260.css.map": "/memeApp-reactJs/static/css/main.c52a2260.css.map",
+    "main.30eb39bc.js.map": "/memeApp-reactJs/static/js/main.30eb39bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52a2260.css",
+    "static/js/main.30eb39bc.js"
+  ]
+}
